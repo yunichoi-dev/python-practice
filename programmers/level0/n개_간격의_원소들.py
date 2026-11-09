@@ -11,3 +11,7 @@ def solution(num_list, n):
     
     return answer
 
+range(start, stop, step)
+start 시작숫자
+stop 종료숫자
+step 몇 칸씩 증가할지
