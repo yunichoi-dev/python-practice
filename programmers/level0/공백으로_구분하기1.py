@@ -13,6 +13,6 @@ def solution(my_string):
             answer.append(word)
             word = ""
         else:
-            word +=  x
+            word += x 
     answer.append(word)
     return answer
